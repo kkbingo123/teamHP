@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int main(void){
-    printf("初めてのgithub");
+    printf("初めてのbranch");
     return 0;
 }
